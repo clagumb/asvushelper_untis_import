@@ -10,7 +10,7 @@ Voraussetzung für die Nutzung:
 1. Die STDPLAN.txt aus Untis muss in STDPLANVorlage.txt umbenannt werden.
 2. STDPLANVorlage.txt muss auf dem Windows Desktop liegen.
 3. Das Programm selbst kann im Prinzip in jedem Ordner gespeichert werden.
-4. Das Programm muss aus einer Eingabeaufforderung ausgeführt werden. Die Eingabeaufforderung muss sich in dem Ordner befinden, in dem das Programm gespeichert wurde.
+4. Das Programm muss aus einer Eingabeaufforderung ausgeführt werden. Der Pfad der Eingabeaufforderung muss auf den Ordner zeigen, in dem das Programm gespeichert wurde.
 
 Ausführung:
 asvushelper_untis_import.exe Mx (Mx = Lehrerkürzel in Untis)
